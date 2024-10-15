@@ -1,0 +1,4 @@
+order_id,customer_id,order_status,product_category_name,order_purchase_timestamp
+1,101,delivered,Electronics,2022-01-01 12:00:00
+2,102,shipped,Furniture,2022-01-02 15:00:00
+3,103,canceled,Clothing,2022-01-03 16:00:00
